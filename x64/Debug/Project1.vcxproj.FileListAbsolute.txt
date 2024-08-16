@@ -1,0 +1,2 @@
+C:\LearnC++\Project1\x64\Debug\BankProject.exe
+D:\FileCPP\Pjt5BankProject\x64\Debug\BankProject.exe

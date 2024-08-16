@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  app.cpp
+D:\FileCPP\Pjt5BankProject\app.cpp(201,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\FileCPP\Pjt5BankProject\app.cpp(1609,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\FileCPP\Pjt5BankProject\app.cpp(1647,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Project1.vcxproj -> D:\FileCPP\Pjt5BankProject\x64\Debug\BankProject.exe
